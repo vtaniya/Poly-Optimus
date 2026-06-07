@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+data_bridge.json
+.streamlit/
+.gemini/
+antigravity/
+brain/
+scratch/
+artifacts/
+implementation_plan.md
+task.md
+walkthrough.md
